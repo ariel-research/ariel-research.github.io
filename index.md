@@ -2,7 +2,7 @@
 title: programming research algorithms - interactive movies
 ---
 
-<div dir="rtl">
+<div dir="rtl" markdown="1">
 
 # תיכנות אלגוריתמים מחקריים - סרטונים אינטראקטיביים
 
