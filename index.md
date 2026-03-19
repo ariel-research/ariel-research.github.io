@@ -8,10 +8,8 @@ title: programming research algorithms - interactive movies
 
 ## יחידה 1
 
-- [סרטון א - מבוא לקורס - יעלה בהמשך](unit1/1.html)
+- [סרטון א - מבוא לקורס](unit1/1.html)
 - [סרטון ב - אתגרים בהבנת מאמר מחקרי](unit1/2.html)
-
-הסרטונים יעלו בקרוב
 
 ## יחידה 2
 
@@ -23,6 +21,6 @@ title: programming research algorithms - interactive movies
 
 ## יחידה 3
 
-הסרטונים יעלו בקרוב
+הסרטונים יעלו למוודל
 
 </div>
